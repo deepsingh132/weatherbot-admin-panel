@@ -111,10 +111,18 @@ function Table({ type, data, isFetching, reFetch, setReFetch }: { type: string, 
         </td>
         <td className="px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">
           <div className="text-xs md:table-cell hidden text-gray-500">
-            {new Date(item.createdAt).toLocaleDateString()}
+              {new Date(item.createdAt).toLocaleDateString(
+                undefined, {
+                timeZone: "Asia/Kolkata"
+              }
+            )}
           </div>
           <div className="md:text-base">
-            {new Date(item.createdAt).toLocaleTimeString()}
+              {new Date(item.createdAt).toLocaleTimeString(
+                undefined, {
+                timeZone: "Asia/Kolkata"
+              }
+            )}
           </div>
         </td>
         <td className="px-6 py-4 text-gray-900 whitespace-nowrap dark:text-white">

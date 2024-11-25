@@ -177,6 +177,7 @@ function Settings() {
                       day: "numeric",
                       month: "short",
                       year: "numeric",
+                      timeZone: "Asia/Kolkata",
                     })}
                   </td>
                   <td className={`border-t ${isSidebarOpen ? "hidden xl:table-cell" : "md:table-cell hidden"} max-w-[200px] text-ellipsis overflow-hidden whitespace-nowrap border-gray-200 px-2 py-2`}>
