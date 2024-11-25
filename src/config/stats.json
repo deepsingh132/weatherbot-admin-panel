@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1",
+    "title": "Uptime",
+    "description": "The amount of time the bot has been running.",
+    "icon": "Clock",
+    "data": 23434,
+    "stringData": "3 days, 4 hours, 23 minutes"
+  },
+  {
+    "id": "2",
+    "title": "Bot Latency",
+    "description": "The time it takes for the bot to respond to a message.",
+    "icon": "Gauge",
+    "data": 234,
+    "stringData": ""
+  },
+  {
+    "id": "3",
+    "title": "Bot Status",
+    "description": "The bot's current health status.",
+    "icon": "HeartPulse",
+    "stringData": "Online"
+  }
+]

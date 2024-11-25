@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Home",
+      "url": "/",
+      "icon": "HomeIcon"
+    },
+    {
+      "name": "Profile",
+      "url": "/profile",
+      "icon": "UserIcon"
+    },
+    {
+      "name": "Settings",
+      "url": "/settings",
+      "icon": "Settings"
+    },
+    {
+      "name": "Log Out",
+      "url": "/logout",
+      "icon": "LogOutIcon"
+    }
+]

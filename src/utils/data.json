@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "OpenWeather API Key",
+    "value": "123456789",
+    "createdAt": "2021-01-01",
+    "createdBy": "John Doe"
+  },
+  {
+    "id": 2,
+    "name": "Telegram Bot Token",
+    "value": "123456789",
+    "botToken": "123456789",
+    "createdAt": "2021-01-01",
+    "createdBy": "John Doe"
+  }
+]
