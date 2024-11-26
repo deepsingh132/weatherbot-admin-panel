@@ -33,6 +33,7 @@ Designed for simplicity and efficiency, the panel leverages **React**, **Vite**,
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -50,6 +51,22 @@ Designed for simplicity and efficiency, the panel leverages **React**, **Vite**,
 - **TypeScript**: Enhances the codebase with static typing.
 - **Tailwind CSS**: Utility-first CSS framework for responsive and modern designs.
 - **Axios**: Simplifies HTTP requests for fetching and managing data.
+
+---
+
+## Screenshots
+
+| Admin Panel Screenshot |
+|:------------------------:|
+| ![Admin Panel Screenshot](./screenshots/weatherbotadminpanel.png) |
+| Home Page with Closed Sidebar |
+| ![Admin Panel Screenshot](./screenshots/homewithclosedsidebar.png) |
+| Settings Page |
+| ![Admin Panel Screenshot](./screenshots/settings.png) |
+| Profile Page |
+| ![Admin Panel Screenshot](./screenshots/profile.png) |
+| Dark Mode |
+| ![Admin Panel Screenshot](./screenshots/darkmode.png) |
 
 ---
 
